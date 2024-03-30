@@ -1,2 +1,2 @@
 # Fake-Bills-Prediction
-Fake Bills Prediction Using Knn Classifier.
+Fake Bills Preprocessing and Prediction Using Knn Classifier
